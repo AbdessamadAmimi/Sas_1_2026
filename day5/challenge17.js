@@ -3,4 +3,4 @@ function remplacerElement(tab, ancien, nouveau){
     console.log(tab)
 }
 
-console.log(remplacerElement(["1","2","3","4"], "3", "2"))
+(remplacerElement(["1","2","3","4"], "3", "2"))
